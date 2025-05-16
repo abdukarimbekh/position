@@ -1,0 +1,31 @@
+.conteiner{
+    background-color: green;
+    width: 100%;
+    height: 1000px;
+    /* display: flex; */
+    position: relative;
+}
+.box{
+    width: 400px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+}
+.box2{
+right: 10px;
+position: absolute;
+}
+.box3{
+    top: 400px;
+    right: 700px;
+    position: absolute;
+
+}
+.nuqta{
+    position: fixed;
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    right: 40px;
+    bottom: 50px
+}
